@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271818706639",
+    "firebase_url": "https://red-lantern-1.firebaseio.com",
+    "project_id": "red-lantern-1",
+    "storage_bucket": "red-lantern-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271818706639:android:d693d2680c304373",
+        "android_client_info": {
+          "package_name": "com.jason.redlantern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271818706639-ut310bidarere79brj42tat7rsltpdak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jason.redlantern",
+            "certificate_hash": "75b65a9110be572af666d0943f8da862a4f4e2f6"
+          }
+        },
+        {
+          "client_id": "271818706639-ugbqacbv1ju2a5pp697fijhnvq3onehe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpz5DA1s7f4wAcm0SHmTbYfdKDcQaaZMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271818706639-ugbqacbv1ju2a5pp697fijhnvq3onehe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
